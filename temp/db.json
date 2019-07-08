@@ -1,0 +1,87 @@
+{
+  "pedidos": [
+    {
+      "cliente": "Ronilson Possidonio",
+      "cpf": "06013477302",
+      "descricao": "Este é um pedido de Teste",
+      "id": 1562440297670,
+      "status": "EXCLUÍDO"
+    },
+    {
+      "cliente": "Ronilson Possidonio",
+      "cpf": "06013477302",
+      "descricao": "TESTE",
+      "id": 1562446442495,
+      "status": "EXCLUÍDO"
+    },
+    {
+      "cliente": "Cliente 1",
+      "cpf": "06013477302",
+      "descricao": "2154\n51",
+      "id": 1562452772478,
+      "status": "CONCLUÍDO"
+    },
+    {
+      "cliente": "Cliente 2",
+      "cpf": "214",
+      "id": 1562454127002,
+      "status": "EXCLUÍDO"
+    },
+    {
+      "cliente": "Cliente 2",
+      "cpf": "21454",
+      "id": 1562454127242,
+      "status": "EXCLUÍDO"
+    },
+    {
+      "cliente": "Cliente 3",
+      "cpf": "06013477302",
+      "descricao": "TESTE 123456789",
+      "id": 1562454570961,
+      "status": "PRONTO PARA PAGAMENTO"
+    },
+    {
+      "cliente": "Cliente 4",
+      "cpf": "06013477302",
+      "descricao": "TESTE 60",
+      "id": 1562454592774,
+      "status": "EM PREPARAÇÃO"
+    },
+    {
+      "cliente": "Cliente 5",
+      "cpf": "06013477302",
+      "descricao": "TESTE 654987",
+      "id": 1562455347896,
+      "status": "NOVO"
+    },
+    {
+      "cliente": "Cliente 10",
+      "cpf": "06013477302",
+      "descricao": "adasasdasdasdsad\nadasdasdasd\nasdasdas",
+      "id": 1562605692031,
+      "status": "EM PREPARAÇÃO"
+    }
+  ],
+  "dashboard": [
+    {
+      "status": "NOVO",
+      "count": 0
+    },
+    {
+      "status": "EM PREPARAÇÃO",
+      "count": 0
+    },
+    {
+      "status": "PRONTO PARA PAGAMENTO",
+      "count": 0
+    },
+    {
+      "status": "CONCLUÍDO",
+      "count": 0
+    },
+    {
+      "status": "EXCLUÍDO",
+      "count": 0
+    }
+  ]
+}
